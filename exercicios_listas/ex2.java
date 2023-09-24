@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Comparator;
 
 //Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
-public class ex2 {
+public class Ex2 {
     public static void main(String[] args) {
         
         ArrayList <Float> numeroList = new ArrayList<>();

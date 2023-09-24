@@ -4,7 +4,7 @@ package exercicios_listas;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ex1 {
+public class Ex1 {
 public static void main(String[] args) {
     
     ArrayList <Integer> numeros = new ArrayList<>();
